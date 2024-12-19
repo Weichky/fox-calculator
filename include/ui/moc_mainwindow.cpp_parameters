@@ -1,0 +1,9 @@
+-I/home/weichky/Qt5.12.3/5.12.3/gcc_64/include
+-I/home/weichky/Qt5.12.3/5.12.3/gcc_64/include/QtWidgets
+-I/home/weichky/Qt5.12.3/5.12.3/gcc_64/include/QtGui
+-I/home/weichky/Qt5.12.3/5.12.3/gcc_64/include/QtCore
+-I/home/weichky/Qt5.12.3/5.12.3/gcc_64/./mkspecs/linux-g++
+-I/usr/include
+-o
+/home/weichky/fox-calculator/include/ui/moc_mainwindow.cpp
+/home/weichky/fox-calculator/include/ui/mainwindow.h
